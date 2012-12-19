@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.training_bonfranco.widgets.HelloBonFrancoWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Hello Bon Franco</label>
+  <description>Hello Bon Franco!</description>
+</widget>
